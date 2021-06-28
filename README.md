@@ -2,7 +2,7 @@
 
 ### Summary
 
-Unlike [ImageColorBatch](https://github.com/dinoador-pex/ImageColorBatch) which uses core Java, I thought it would be fun to use a framework like Spring Batch. Spring Batch is a lightweight, comprehensive Java framework to facilitate development of robust batch applications.  It also provides more advanced technical services and features that support extremely high volume and high performance batch jobs through its optimization and partitioning techniques.
+Unlike [ImageColorBatch](https://github.com/dinoador-pex/ImageColorBatch) which uses core Java, I thought it would be fun to use a framework like Spring Batch. Spring Batch is a lightweight, comprehensive Java framework to facilitate development of robust batch applications.  It also provides more advanced services and features that support extremely high volume and high performance batch jobs through its optimization and partitioning techniques.
 
 ![Image of Spring Batch Architecture](https://terasoluna-batch.github.io/guideline/5.0.0.RELEASE/en/images/ch02/SpringBatchArchitecture/Ch02_SpringBatchArchitecture_Architecture_ProcessFlow.png)
 
