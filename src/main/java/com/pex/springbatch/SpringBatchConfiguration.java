@@ -32,7 +32,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 @Configuration
 @EnableBatchProcessing
-public class SpringBatchTutorialConfiguration {
+public class SpringBatchConfiguration {
 
     /* ********************************************
      * READERS
